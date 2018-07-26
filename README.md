@@ -1,5 +1,5 @@
 # Hello Word in Cを書き換えてただ四角を書くだけのサンプル
-WebAssembly Studio(https://webassembly.studio/)のHello Word in C書き換えただけ。
+WebAssembly Studio( https://webassembly.studio/ )のHello Word in C書き換えただけ。
 素直にfillRectで描いた方が多分早い。
 
 # Hello World in C
